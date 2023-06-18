@@ -1,0 +1,6 @@
+.friends{
+    border: 2px solid lightcoral;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 10px;
+}
